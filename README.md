@@ -1,5 +1,7 @@
 # JumpNRun - A demo
 
+<img width="448" height="272.5" src="https://github.com/user-attachments/assets/9a344be2-2efe-4345-9b34-9b280ba67210" />
+
 A 2D platformer prototype built with Java and [libGDX](https://libgdx.com/).
 
 ## What it does
