@@ -15,6 +15,8 @@ The player character moves and jumps, with sprite-sheet animations for idle, wal
 - **Walk left/right + W/↑** — run
 - **Space** — jump
 
+[See some gameplay!](https://youtu.be/GMwI2tp1v2c?si=an3HCUximD3Tg5kM)
+
 ## Tech
 
 - Java
